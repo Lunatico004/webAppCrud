@@ -1,6 +1,6 @@
 <?php
 function conectar(){
-    $host="localhost";
+    $host="13.0.0.4";
     $user="admin737";
     $pass="Pass.Pass";
 
